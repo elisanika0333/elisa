@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/elisa/static/css/main.39f589df.css",
+    "main.js": "/elisa/static/js/main.331106ac.js",
+    "static/js/787.4ef7427d.chunk.js": "/elisa/static/js/787.4ef7427d.chunk.js",
+    "index.html": "/elisa/index.html",
+    "main.39f589df.css.map": "/elisa/static/css/main.39f589df.css.map",
+    "main.331106ac.js.map": "/elisa/static/js/main.331106ac.js.map",
+    "787.4ef7427d.chunk.js.map": "/elisa/static/js/787.4ef7427d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39f589df.css",
+    "static/js/main.331106ac.js"
+  ]
+}

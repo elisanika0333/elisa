@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/elisa/static/css/main.70036622.css",
-    "main.js": "/elisa/static/js/main.d2785013.js",
+    "main.js": "/elisa/static/js/main.26adb176.js",
     "static/js/787.4ef7427d.chunk.js": "/elisa/static/js/787.4ef7427d.chunk.js",
     "index.html": "/elisa/index.html",
     "main.70036622.css.map": "/elisa/static/css/main.70036622.css.map",
-    "main.d2785013.js.map": "/elisa/static/js/main.d2785013.js.map",
+    "main.26adb176.js.map": "/elisa/static/js/main.26adb176.js.map",
     "787.4ef7427d.chunk.js.map": "/elisa/static/js/787.4ef7427d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70036622.css",
-    "static/js/main.d2785013.js"
+    "static/js/main.26adb176.js"
   ]
 }
